@@ -1,0 +1,14 @@
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\trabalho_folha_de_pagamento\trabalho_folha_de_pagamento\bin\Debug\net10.0\trabalho_folha_de_pagamento.exe
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\trabalho_folha_de_pagamento\trabalho_folha_de_pagamento\bin\Debug\net10.0\trabalho_folha_de_pagamento.deps.json
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\trabalho_folha_de_pagamento\trabalho_folha_de_pagamento\bin\Debug\net10.0\trabalho_folha_de_pagamento.runtimeconfig.json
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\trabalho_folha_de_pagamento\trabalho_folha_de_pagamento\bin\Debug\net10.0\trabalho_folha_de_pagamento.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\trabalho_folha_de_pagamento\trabalho_folha_de_pagamento\bin\Debug\net10.0\trabalho_folha_de_pagamento.pdb
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\trabalho_folha_de_pagamento\trabalho_folha_de_pagamento\obj\Debug\net10.0\trabalho_folha_de_pagamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\trabalho_folha_de_pagamento\trabalho_folha_de_pagamento\obj\Debug\net10.0\trabalho_folha_de_pagamento.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\trabalho_folha_de_pagamento\trabalho_folha_de_pagamento\obj\Debug\net10.0\trabalho_folha_de_pagamento.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\trabalho_folha_de_pagamento\trabalho_folha_de_pagamento\obj\Debug\net10.0\trabalho_folha_de_pagamento.csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\trabalho_folha_de_pagamento\trabalho_folha_de_pagamento\obj\Debug\net10.0\trabalho_folha_de_pagamento.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\trabalho_folha_de_pagamento\trabalho_folha_de_pagamento\obj\Debug\net10.0\refint\trabalho_folha_de_pagamento.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\trabalho_folha_de_pagamento\trabalho_folha_de_pagamento\obj\Debug\net10.0\trabalho_folha_de_pagamento.pdb
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\trabalho_folha_de_pagamento\trabalho_folha_de_pagamento\obj\Debug\net10.0\trabalho_folha_de_pagamento.genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\trabalho_folha_de_pagamento\trabalho_folha_de_pagamento\obj\Debug\net10.0\ref\trabalho_folha_de_pagamento.dll

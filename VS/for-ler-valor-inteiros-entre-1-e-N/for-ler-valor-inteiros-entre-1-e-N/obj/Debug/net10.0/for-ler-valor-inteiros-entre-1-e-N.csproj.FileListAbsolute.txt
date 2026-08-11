@@ -1,0 +1,14 @@
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for-ler-valor-inteiros-entre-1-e-N\for-ler-valor-inteiros-entre-1-e-N\bin\Debug\net10.0\for-ler-valor-inteiros-entre-1-e-N.exe
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for-ler-valor-inteiros-entre-1-e-N\for-ler-valor-inteiros-entre-1-e-N\bin\Debug\net10.0\for-ler-valor-inteiros-entre-1-e-N.deps.json
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for-ler-valor-inteiros-entre-1-e-N\for-ler-valor-inteiros-entre-1-e-N\bin\Debug\net10.0\for-ler-valor-inteiros-entre-1-e-N.runtimeconfig.json
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for-ler-valor-inteiros-entre-1-e-N\for-ler-valor-inteiros-entre-1-e-N\bin\Debug\net10.0\for-ler-valor-inteiros-entre-1-e-N.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for-ler-valor-inteiros-entre-1-e-N\for-ler-valor-inteiros-entre-1-e-N\bin\Debug\net10.0\for-ler-valor-inteiros-entre-1-e-N.pdb
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for-ler-valor-inteiros-entre-1-e-N\for-ler-valor-inteiros-entre-1-e-N\obj\Debug\net10.0\for-ler-valor-inteiros-entre-1-e-N.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for-ler-valor-inteiros-entre-1-e-N\for-ler-valor-inteiros-entre-1-e-N\obj\Debug\net10.0\for-ler-valor-inteiros-entre-1-e-N.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for-ler-valor-inteiros-entre-1-e-N\for-ler-valor-inteiros-entre-1-e-N\obj\Debug\net10.0\for-ler-valor-inteiros-entre-1-e-N.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for-ler-valor-inteiros-entre-1-e-N\for-ler-valor-inteiros-entre-1-e-N\obj\Debug\net10.0\for-ler-valor-inteiros-entre-1-e-N.csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for-ler-valor-inteiros-entre-1-e-N\for-ler-valor-inteiros-entre-1-e-N\obj\Debug\net10.0\for-ler-valor-inteiros-entre-1-e-N.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for-ler-valor-inteiros-entre-1-e-N\for-ler-valor-inteiros-entre-1-e-N\obj\Debug\net10.0\refint\for-ler-valor-inteiros-entre-1-e-N.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for-ler-valor-inteiros-entre-1-e-N\for-ler-valor-inteiros-entre-1-e-N\obj\Debug\net10.0\for-ler-valor-inteiros-entre-1-e-N.pdb
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for-ler-valor-inteiros-entre-1-e-N\for-ler-valor-inteiros-entre-1-e-N\obj\Debug\net10.0\for-ler-valor-inteiros-entre-1-e-N.genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for-ler-valor-inteiros-entre-1-e-N\for-ler-valor-inteiros-entre-1-e-N\obj\Debug\net10.0\ref\for-ler-valor-inteiros-entre-1-e-N.dll

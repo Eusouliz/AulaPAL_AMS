@@ -1,0 +1,14 @@
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for-1-10-decrescente\for-1-10-decrescente\bin\Debug\net10.0\for-1-10-decrescente.exe
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for-1-10-decrescente\for-1-10-decrescente\bin\Debug\net10.0\for-1-10-decrescente.deps.json
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for-1-10-decrescente\for-1-10-decrescente\bin\Debug\net10.0\for-1-10-decrescente.runtimeconfig.json
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for-1-10-decrescente\for-1-10-decrescente\bin\Debug\net10.0\for-1-10-decrescente.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for-1-10-decrescente\for-1-10-decrescente\bin\Debug\net10.0\for-1-10-decrescente.pdb
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for-1-10-decrescente\for-1-10-decrescente\obj\Debug\net10.0\for-1-10-decrescente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for-1-10-decrescente\for-1-10-decrescente\obj\Debug\net10.0\for-1-10-decrescente.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for-1-10-decrescente\for-1-10-decrescente\obj\Debug\net10.0\for-1-10-decrescente.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for-1-10-decrescente\for-1-10-decrescente\obj\Debug\net10.0\for-1-10-decrescente.csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for-1-10-decrescente\for-1-10-decrescente\obj\Debug\net10.0\for-1-10-decrescente.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for-1-10-decrescente\for-1-10-decrescente\obj\Debug\net10.0\refint\for-1-10-decrescente.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for-1-10-decrescente\for-1-10-decrescente\obj\Debug\net10.0\for-1-10-decrescente.pdb
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for-1-10-decrescente\for-1-10-decrescente\obj\Debug\net10.0\for-1-10-decrescente.genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for-1-10-decrescente\for-1-10-decrescente\obj\Debug\net10.0\ref\for-1-10-decrescente.dll

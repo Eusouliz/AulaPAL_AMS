@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "trabalho_folha_de_pagamento/1.0.0": {
+        "runtime": {
+          "trabalho_folha_de_pagamento.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "trabalho_folha_de_pagamento/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

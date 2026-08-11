@@ -1,0 +1,14 @@
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for-exemplo\for-exemplo\bin\Debug\net10.0\for-exemplo.exe
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for-exemplo\for-exemplo\bin\Debug\net10.0\for-exemplo.deps.json
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for-exemplo\for-exemplo\bin\Debug\net10.0\for-exemplo.runtimeconfig.json
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for-exemplo\for-exemplo\bin\Debug\net10.0\for-exemplo.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for-exemplo\for-exemplo\bin\Debug\net10.0\for-exemplo.pdb
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for-exemplo\for-exemplo\obj\Debug\net10.0\for-exemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for-exemplo\for-exemplo\obj\Debug\net10.0\for-exemplo.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for-exemplo\for-exemplo\obj\Debug\net10.0\for-exemplo.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for-exemplo\for-exemplo\obj\Debug\net10.0\for-exemplo.csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for-exemplo\for-exemplo\obj\Debug\net10.0\for-exemplo.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for-exemplo\for-exemplo\obj\Debug\net10.0\refint\for-exemplo.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for-exemplo\for-exemplo\obj\Debug\net10.0\for-exemplo.pdb
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for-exemplo\for-exemplo\obj\Debug\net10.0\for-exemplo.genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for-exemplo\for-exemplo\obj\Debug\net10.0\ref\for-exemplo.dll

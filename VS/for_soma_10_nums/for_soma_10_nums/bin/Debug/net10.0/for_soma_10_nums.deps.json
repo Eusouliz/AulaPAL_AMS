@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "for_soma_10_nums/1.0.0": {
+        "runtime": {
+          "for_soma_10_nums.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "for_soma_10_nums/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for-1-20-crescente\for-1-20-crescente\bin\Debug\net10.0\for-1-20-crescente.exe
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for-1-20-crescente\for-1-20-crescente\bin\Debug\net10.0\for-1-20-crescente.deps.json
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for-1-20-crescente\for-1-20-crescente\bin\Debug\net10.0\for-1-20-crescente.runtimeconfig.json
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for-1-20-crescente\for-1-20-crescente\bin\Debug\net10.0\for-1-20-crescente.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for-1-20-crescente\for-1-20-crescente\bin\Debug\net10.0\for-1-20-crescente.pdb
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for-1-20-crescente\for-1-20-crescente\obj\Debug\net10.0\for-1-20-crescente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for-1-20-crescente\for-1-20-crescente\obj\Debug\net10.0\for-1-20-crescente.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for-1-20-crescente\for-1-20-crescente\obj\Debug\net10.0\for-1-20-crescente.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for-1-20-crescente\for-1-20-crescente\obj\Debug\net10.0\for-1-20-crescente.csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for-1-20-crescente\for-1-20-crescente\obj\Debug\net10.0\for-1-20-crescente.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for-1-20-crescente\for-1-20-crescente\obj\Debug\net10.0\refint\for-1-20-crescente.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for-1-20-crescente\for-1-20-crescente\obj\Debug\net10.0\for-1-20-crescente.pdb
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for-1-20-crescente\for-1-20-crescente\obj\Debug\net10.0\for-1-20-crescente.genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for-1-20-crescente\for-1-20-crescente\obj\Debug\net10.0\ref\for-1-20-crescente.dll

@@ -1,0 +1,14 @@
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for-10-primeiros-nums-inteiros-maiores-que-100\for-10-primeiros-nums-inteiros-maiores-que-100\bin\Debug\net10.0\for-10-primeiros-nums-inteiros-maiores-que-100.exe
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for-10-primeiros-nums-inteiros-maiores-que-100\for-10-primeiros-nums-inteiros-maiores-que-100\bin\Debug\net10.0\for-10-primeiros-nums-inteiros-maiores-que-100.deps.json
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for-10-primeiros-nums-inteiros-maiores-que-100\for-10-primeiros-nums-inteiros-maiores-que-100\bin\Debug\net10.0\for-10-primeiros-nums-inteiros-maiores-que-100.runtimeconfig.json
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for-10-primeiros-nums-inteiros-maiores-que-100\for-10-primeiros-nums-inteiros-maiores-que-100\bin\Debug\net10.0\for-10-primeiros-nums-inteiros-maiores-que-100.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for-10-primeiros-nums-inteiros-maiores-que-100\for-10-primeiros-nums-inteiros-maiores-que-100\bin\Debug\net10.0\for-10-primeiros-nums-inteiros-maiores-que-100.pdb
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for-10-primeiros-nums-inteiros-maiores-que-100\for-10-primeiros-nums-inteiros-maiores-que-100\obj\Debug\net10.0\for-10-primeiros-nums-inteiros-maiores-que-100.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for-10-primeiros-nums-inteiros-maiores-que-100\for-10-primeiros-nums-inteiros-maiores-que-100\obj\Debug\net10.0\for-10-primeiros-nums-inteiros-maiores-que-100.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for-10-primeiros-nums-inteiros-maiores-que-100\for-10-primeiros-nums-inteiros-maiores-que-100\obj\Debug\net10.0\for-10-primeiros-nums-inteiros-maiores-que-100.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for-10-primeiros-nums-inteiros-maiores-que-100\for-10-primeiros-nums-inteiros-maiores-que-100\obj\Debug\net10.0\for-10-primeiros-nums-inteiros-maiores-que-100.csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for-10-primeiros-nums-inteiros-maiores-que-100\for-10-primeiros-nums-inteiros-maiores-que-100\obj\Debug\net10.0\for-10-primeiros-nums-inteiros-maiores-que-100.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for-10-primeiros-nums-inteiros-maiores-que-100\for-10-primeiros-nums-inteiros-maiores-que-100\obj\Debug\net10.0\refint\for-10-primeiros-nums-inteiros-maiores-que-100.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for-10-primeiros-nums-inteiros-maiores-que-100\for-10-primeiros-nums-inteiros-maiores-que-100\obj\Debug\net10.0\for-10-primeiros-nums-inteiros-maiores-que-100.pdb
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for-10-primeiros-nums-inteiros-maiores-que-100\for-10-primeiros-nums-inteiros-maiores-que-100\obj\Debug\net10.0\for-10-primeiros-nums-inteiros-maiores-que-100.genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for-10-primeiros-nums-inteiros-maiores-que-100\for-10-primeiros-nums-inteiros-maiores-que-100\obj\Debug\net10.0\ref\for-10-primeiros-nums-inteiros-maiores-que-100.dll

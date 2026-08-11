@@ -1,0 +1,14 @@
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for_soma_10_nums\for_soma_10_nums\obj\Debug\net10.0\for_soma_10_nums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for_soma_10_nums\for_soma_10_nums\obj\Debug\net10.0\for_soma_10_nums.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for_soma_10_nums\for_soma_10_nums\obj\Debug\net10.0\for_soma_10_nums.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for_soma_10_nums\for_soma_10_nums\obj\Debug\net10.0\for_soma_10_nums.csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for_soma_10_nums\for_soma_10_nums\bin\Debug\net10.0\for_soma_10_nums.exe
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for_soma_10_nums\for_soma_10_nums\bin\Debug\net10.0\for_soma_10_nums.deps.json
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for_soma_10_nums\for_soma_10_nums\bin\Debug\net10.0\for_soma_10_nums.runtimeconfig.json
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for_soma_10_nums\for_soma_10_nums\bin\Debug\net10.0\for_soma_10_nums.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for_soma_10_nums\for_soma_10_nums\bin\Debug\net10.0\for_soma_10_nums.pdb
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for_soma_10_nums\for_soma_10_nums\obj\Debug\net10.0\for_soma_10_nums.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for_soma_10_nums\for_soma_10_nums\obj\Debug\net10.0\refint\for_soma_10_nums.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for_soma_10_nums\for_soma_10_nums\obj\Debug\net10.0\for_soma_10_nums.pdb
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for_soma_10_nums\for_soma_10_nums\obj\Debug\net10.0\for_soma_10_nums.genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for_soma_10_nums\for_soma_10_nums\obj\Debug\net10.0\ref\for_soma_10_nums.dll

@@ -1,0 +1,14 @@
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for_metade_numero\for_metade_numero\bin\Debug\net10.0\for_metade_numero.exe
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for_metade_numero\for_metade_numero\bin\Debug\net10.0\for_metade_numero.deps.json
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for_metade_numero\for_metade_numero\bin\Debug\net10.0\for_metade_numero.runtimeconfig.json
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for_metade_numero\for_metade_numero\bin\Debug\net10.0\for_metade_numero.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for_metade_numero\for_metade_numero\bin\Debug\net10.0\for_metade_numero.pdb
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for_metade_numero\for_metade_numero\obj\Debug\net10.0\for_metade_numero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for_metade_numero\for_metade_numero\obj\Debug\net10.0\for_metade_numero.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for_metade_numero\for_metade_numero\obj\Debug\net10.0\for_metade_numero.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for_metade_numero\for_metade_numero\obj\Debug\net10.0\for_metade_numero.csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for_metade_numero\for_metade_numero\obj\Debug\net10.0\for_metade_numero.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for_metade_numero\for_metade_numero\obj\Debug\net10.0\refint\for_metade_numero.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for_metade_numero\for_metade_numero\obj\Debug\net10.0\for_metade_numero.pdb
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for_metade_numero\for_metade_numero\obj\Debug\net10.0\for_metade_numero.genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for_metade_numero\for_metade_numero\obj\Debug\net10.0\ref\for_metade_numero.dll

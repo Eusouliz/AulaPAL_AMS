@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fatec-ams-ds1\\Desktop\\PAL\\VS\\for_3_pessoas_n_i_s\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D67AD38F-2F69-49D0-96AD-52D6E062DE6E}|for_3_pessoas_n_i_s\\for_3_pessoas_n_i_s.csproj|c:\\users\\fatec-ams-ds1\\desktop\\pal\\vs\\for_3_pessoas_n_i_s\\for_3_pessoas_n_i_s\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D67AD38F-2F69-49D0-96AD-52D6E062DE6E}|for_3_pessoas_n_i_s\\for_3_pessoas_n_i_s.csproj|solutionrelative:for_3_pessoas_n_i_s\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fatec-ams-ds1\\Desktop\\PAL\\VS\\for_3_pessoas_n_i_s\\for_3_pessoas_n_i_s\\Program.cs",
+              "RelativeDocumentMoniker": "for_3_pessoas_n_i_s\\Program.cs",
+              "ToolTip": "C:\\Users\\fatec-ams-ds1\\Desktop\\PAL\\VS\\for_3_pessoas_n_i_s\\for_3_pessoas_n_i_s\\Program.cs",
+              "RelativeToolTip": "for_3_pessoas_n_i_s\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-05T19:34:28.385Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

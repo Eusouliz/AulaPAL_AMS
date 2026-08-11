@@ -1,0 +1,14 @@
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for3-exemplo\for3-exemplo\bin\Debug\net10.0\for3-exemplo.exe
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for3-exemplo\for3-exemplo\bin\Debug\net10.0\for3-exemplo.deps.json
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for3-exemplo\for3-exemplo\bin\Debug\net10.0\for3-exemplo.runtimeconfig.json
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for3-exemplo\for3-exemplo\bin\Debug\net10.0\for3-exemplo.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for3-exemplo\for3-exemplo\bin\Debug\net10.0\for3-exemplo.pdb
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for3-exemplo\for3-exemplo\obj\Debug\net10.0\for3-exemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for3-exemplo\for3-exemplo\obj\Debug\net10.0\for3-exemplo.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for3-exemplo\for3-exemplo\obj\Debug\net10.0\for3-exemplo.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for3-exemplo\for3-exemplo\obj\Debug\net10.0\for3-exemplo.csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for3-exemplo\for3-exemplo\obj\Debug\net10.0\for3-exemplo.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for3-exemplo\for3-exemplo\obj\Debug\net10.0\refint\for3-exemplo.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for3-exemplo\for3-exemplo\obj\Debug\net10.0\for3-exemplo.pdb
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for3-exemplo\for3-exemplo\obj\Debug\net10.0\for3-exemplo.genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for3-exemplo\for3-exemplo\obj\Debug\net10.0\ref\for3-exemplo.dll
