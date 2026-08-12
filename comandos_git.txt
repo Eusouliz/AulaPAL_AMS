@@ -1,0 +1,10 @@
+1º Entrar na pasta PAL
+cmd
+cd desktop
+cd PAL
+
+2º git add .
+
+3º git commit -m "mensagem"
+
+4º git pushs
