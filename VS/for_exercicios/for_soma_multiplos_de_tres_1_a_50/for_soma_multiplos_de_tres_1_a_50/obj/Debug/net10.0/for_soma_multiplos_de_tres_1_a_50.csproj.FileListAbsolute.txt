@@ -1,0 +1,15 @@
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for_exercicios\for_soma_multiplos_de_tres_1_a_50\for_soma_multiplos_de_tres_1_a_50\obj\Debug\net10.0\for_soma_multiplos_de_tres_1_a_50.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for_exercicios\for_soma_multiplos_de_tres_1_a_50\for_soma_multiplos_de_tres_1_a_50\obj\Debug\net10.0\for_soma_multiplos_de_tres_1_a_50.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for_exercicios\for_soma_multiplos_de_tres_1_a_50\for_soma_multiplos_de_tres_1_a_50\obj\Debug\net10.0\for_soma_multiplos_de_tres_1_a_50.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for_exercicios\for_soma_multiplos_de_tres_1_a_50\for_soma_multiplos_de_tres_1_a_50\obj\Debug\net10.0\for_soma_multiplos_de_tres_1_a_50.csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for_exercicios\for_soma_multiplos_de_tres_1_a_50\for_soma_multiplos_de_tres_1_a_50\obj\Debug\net10.0\for_soma_multiplos_de_tres_1_a_50.sourcelink.json
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for_exercicios\for_soma_multiplos_de_tres_1_a_50\for_soma_multiplos_de_tres_1_a_50\bin\Debug\net10.0\for_soma_multiplos_de_tres_1_a_50.exe
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for_exercicios\for_soma_multiplos_de_tres_1_a_50\for_soma_multiplos_de_tres_1_a_50\bin\Debug\net10.0\for_soma_multiplos_de_tres_1_a_50.deps.json
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for_exercicios\for_soma_multiplos_de_tres_1_a_50\for_soma_multiplos_de_tres_1_a_50\bin\Debug\net10.0\for_soma_multiplos_de_tres_1_a_50.runtimeconfig.json
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for_exercicios\for_soma_multiplos_de_tres_1_a_50\for_soma_multiplos_de_tres_1_a_50\bin\Debug\net10.0\for_soma_multiplos_de_tres_1_a_50.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for_exercicios\for_soma_multiplos_de_tres_1_a_50\for_soma_multiplos_de_tres_1_a_50\bin\Debug\net10.0\for_soma_multiplos_de_tres_1_a_50.pdb
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for_exercicios\for_soma_multiplos_de_tres_1_a_50\for_soma_multiplos_de_tres_1_a_50\obj\Debug\net10.0\for_soma_multiplos_de_tres_1_a_50.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for_exercicios\for_soma_multiplos_de_tres_1_a_50\for_soma_multiplos_de_tres_1_a_50\obj\Debug\net10.0\refint\for_soma_multiplos_de_tres_1_a_50.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for_exercicios\for_soma_multiplos_de_tres_1_a_50\for_soma_multiplos_de_tres_1_a_50\obj\Debug\net10.0\for_soma_multiplos_de_tres_1_a_50.pdb
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for_exercicios\for_soma_multiplos_de_tres_1_a_50\for_soma_multiplos_de_tres_1_a_50\obj\Debug\net10.0\for_soma_multiplos_de_tres_1_a_50.genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for_exercicios\for_soma_multiplos_de_tres_1_a_50\for_soma_multiplos_de_tres_1_a_50\obj\Debug\net10.0\ref\for_soma_multiplos_de_tres_1_a_50.dll

@@ -1,0 +1,15 @@
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for_exercicios\for_15_nums_pares\for_15_nums_pares\bin\Debug\net10.0\for_15_nums_pares.exe
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for_exercicios\for_15_nums_pares\for_15_nums_pares\bin\Debug\net10.0\for_15_nums_pares.deps.json
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for_exercicios\for_15_nums_pares\for_15_nums_pares\bin\Debug\net10.0\for_15_nums_pares.runtimeconfig.json
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for_exercicios\for_15_nums_pares\for_15_nums_pares\bin\Debug\net10.0\for_15_nums_pares.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for_exercicios\for_15_nums_pares\for_15_nums_pares\bin\Debug\net10.0\for_15_nums_pares.pdb
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for_exercicios\for_15_nums_pares\for_15_nums_pares\obj\Debug\net10.0\for_15_nums_pares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for_exercicios\for_15_nums_pares\for_15_nums_pares\obj\Debug\net10.0\for_15_nums_pares.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for_exercicios\for_15_nums_pares\for_15_nums_pares\obj\Debug\net10.0\for_15_nums_pares.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for_exercicios\for_15_nums_pares\for_15_nums_pares\obj\Debug\net10.0\for_15_nums_pares.csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for_exercicios\for_15_nums_pares\for_15_nums_pares\obj\Debug\net10.0\for_15_nums_pares.sourcelink.json
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for_exercicios\for_15_nums_pares\for_15_nums_pares\obj\Debug\net10.0\for_15_nums_pares.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for_exercicios\for_15_nums_pares\for_15_nums_pares\obj\Debug\net10.0\refint\for_15_nums_pares.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for_exercicios\for_15_nums_pares\for_15_nums_pares\obj\Debug\net10.0\for_15_nums_pares.pdb
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for_exercicios\for_15_nums_pares\for_15_nums_pares\obj\Debug\net10.0\for_15_nums_pares.genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for_exercicios\for_15_nums_pares\for_15_nums_pares\obj\Debug\net10.0\ref\for_15_nums_pares.dll

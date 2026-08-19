@@ -1,0 +1,15 @@
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for_exercicios\for_altura_M_F\for_altura_M_F\bin\Debug\net10.0\for_altura_M_F.exe
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for_exercicios\for_altura_M_F\for_altura_M_F\bin\Debug\net10.0\for_altura_M_F.deps.json
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for_exercicios\for_altura_M_F\for_altura_M_F\bin\Debug\net10.0\for_altura_M_F.runtimeconfig.json
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for_exercicios\for_altura_M_F\for_altura_M_F\bin\Debug\net10.0\for_altura_M_F.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for_exercicios\for_altura_M_F\for_altura_M_F\bin\Debug\net10.0\for_altura_M_F.pdb
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for_exercicios\for_altura_M_F\for_altura_M_F\obj\Debug\net10.0\for_altura_M_F.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for_exercicios\for_altura_M_F\for_altura_M_F\obj\Debug\net10.0\for_altura_M_F.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for_exercicios\for_altura_M_F\for_altura_M_F\obj\Debug\net10.0\for_altura_M_F.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for_exercicios\for_altura_M_F\for_altura_M_F\obj\Debug\net10.0\for_altura_M_F.csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for_exercicios\for_altura_M_F\for_altura_M_F\obj\Debug\net10.0\for_altura_M_F.sourcelink.json
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for_exercicios\for_altura_M_F\for_altura_M_F\obj\Debug\net10.0\for_altura_M_F.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for_exercicios\for_altura_M_F\for_altura_M_F\obj\Debug\net10.0\refint\for_altura_M_F.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for_exercicios\for_altura_M_F\for_altura_M_F\obj\Debug\net10.0\for_altura_M_F.pdb
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for_exercicios\for_altura_M_F\for_altura_M_F\obj\Debug\net10.0\for_altura_M_F.genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for_exercicios\for_altura_M_F\for_altura_M_F\obj\Debug\net10.0\ref\for_altura_M_F.dll

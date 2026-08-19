@@ -1,0 +1,15 @@
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for_exercicios\for_10_nums_multiplos_de_4\for_10_nums_multiplos_de_4\bin\Debug\net10.0\for_10_nums_multiplos_de_4.exe
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for_exercicios\for_10_nums_multiplos_de_4\for_10_nums_multiplos_de_4\bin\Debug\net10.0\for_10_nums_multiplos_de_4.deps.json
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for_exercicios\for_10_nums_multiplos_de_4\for_10_nums_multiplos_de_4\bin\Debug\net10.0\for_10_nums_multiplos_de_4.runtimeconfig.json
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for_exercicios\for_10_nums_multiplos_de_4\for_10_nums_multiplos_de_4\bin\Debug\net10.0\for_10_nums_multiplos_de_4.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for_exercicios\for_10_nums_multiplos_de_4\for_10_nums_multiplos_de_4\bin\Debug\net10.0\for_10_nums_multiplos_de_4.pdb
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for_exercicios\for_10_nums_multiplos_de_4\for_10_nums_multiplos_de_4\obj\Debug\net10.0\for_10_nums_multiplos_de_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for_exercicios\for_10_nums_multiplos_de_4\for_10_nums_multiplos_de_4\obj\Debug\net10.0\for_10_nums_multiplos_de_4.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for_exercicios\for_10_nums_multiplos_de_4\for_10_nums_multiplos_de_4\obj\Debug\net10.0\for_10_nums_multiplos_de_4.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for_exercicios\for_10_nums_multiplos_de_4\for_10_nums_multiplos_de_4\obj\Debug\net10.0\for_10_nums_multiplos_de_4.csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for_exercicios\for_10_nums_multiplos_de_4\for_10_nums_multiplos_de_4\obj\Debug\net10.0\for_10_nums_multiplos_de_4.sourcelink.json
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for_exercicios\for_10_nums_multiplos_de_4\for_10_nums_multiplos_de_4\obj\Debug\net10.0\for_10_nums_multiplos_de_4.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for_exercicios\for_10_nums_multiplos_de_4\for_10_nums_multiplos_de_4\obj\Debug\net10.0\refint\for_10_nums_multiplos_de_4.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for_exercicios\for_10_nums_multiplos_de_4\for_10_nums_multiplos_de_4\obj\Debug\net10.0\for_10_nums_multiplos_de_4.pdb
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for_exercicios\for_10_nums_multiplos_de_4\for_10_nums_multiplos_de_4\obj\Debug\net10.0\for_10_nums_multiplos_de_4.genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for_exercicios\for_10_nums_multiplos_de_4\for_10_nums_multiplos_de_4\obj\Debug\net10.0\ref\for_10_nums_multiplos_de_4.dll

@@ -7,4 +7,4 @@ cd PAL
 
 3º git commit -m "mensagem"
 
-4º git pushs
+4º git push

@@ -1,0 +1,15 @@
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for_exercicios\for_1_a_300_multiplos_de_3\for_1_a_300_multiplos_de_3\bin\Debug\net10.0\for_1_a_300_multiplos_de_3.exe
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for_exercicios\for_1_a_300_multiplos_de_3\for_1_a_300_multiplos_de_3\bin\Debug\net10.0\for_1_a_300_multiplos_de_3.deps.json
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for_exercicios\for_1_a_300_multiplos_de_3\for_1_a_300_multiplos_de_3\bin\Debug\net10.0\for_1_a_300_multiplos_de_3.runtimeconfig.json
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for_exercicios\for_1_a_300_multiplos_de_3\for_1_a_300_multiplos_de_3\bin\Debug\net10.0\for_1_a_300_multiplos_de_3.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for_exercicios\for_1_a_300_multiplos_de_3\for_1_a_300_multiplos_de_3\bin\Debug\net10.0\for_1_a_300_multiplos_de_3.pdb
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for_exercicios\for_1_a_300_multiplos_de_3\for_1_a_300_multiplos_de_3\obj\Debug\net10.0\for_1_a_300_multiplos_de_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for_exercicios\for_1_a_300_multiplos_de_3\for_1_a_300_multiplos_de_3\obj\Debug\net10.0\for_1_a_300_multiplos_de_3.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for_exercicios\for_1_a_300_multiplos_de_3\for_1_a_300_multiplos_de_3\obj\Debug\net10.0\for_1_a_300_multiplos_de_3.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for_exercicios\for_1_a_300_multiplos_de_3\for_1_a_300_multiplos_de_3\obj\Debug\net10.0\for_1_a_300_multiplos_de_3.csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for_exercicios\for_1_a_300_multiplos_de_3\for_1_a_300_multiplos_de_3\obj\Debug\net10.0\for_1_a_300_multiplos_de_3.sourcelink.json
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for_exercicios\for_1_a_300_multiplos_de_3\for_1_a_300_multiplos_de_3\obj\Debug\net10.0\for_1_a_300_multiplos_de_3.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for_exercicios\for_1_a_300_multiplos_de_3\for_1_a_300_multiplos_de_3\obj\Debug\net10.0\refint\for_1_a_300_multiplos_de_3.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for_exercicios\for_1_a_300_multiplos_de_3\for_1_a_300_multiplos_de_3\obj\Debug\net10.0\for_1_a_300_multiplos_de_3.pdb
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for_exercicios\for_1_a_300_multiplos_de_3\for_1_a_300_multiplos_de_3\obj\Debug\net10.0\for_1_a_300_multiplos_de_3.genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for_exercicios\for_1_a_300_multiplos_de_3\for_1_a_300_multiplos_de_3\obj\Debug\net10.0\ref\for_1_a_300_multiplos_de_3.dll

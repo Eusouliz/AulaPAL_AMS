@@ -1,0 +1,15 @@
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for_100_a_1\for_100_a_1\bin\Debug\net10.0\for_100_a_1.exe
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for_100_a_1\for_100_a_1\bin\Debug\net10.0\for_100_a_1.deps.json
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for_100_a_1\for_100_a_1\bin\Debug\net10.0\for_100_a_1.runtimeconfig.json
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for_100_a_1\for_100_a_1\bin\Debug\net10.0\for_100_a_1.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for_100_a_1\for_100_a_1\bin\Debug\net10.0\for_100_a_1.pdb
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for_100_a_1\for_100_a_1\obj\Debug\net10.0\for_100_a_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for_100_a_1\for_100_a_1\obj\Debug\net10.0\for_100_a_1.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for_100_a_1\for_100_a_1\obj\Debug\net10.0\for_100_a_1.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for_100_a_1\for_100_a_1\obj\Debug\net10.0\for_100_a_1.csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for_100_a_1\for_100_a_1\obj\Debug\net10.0\for_100_a_1.sourcelink.json
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for_100_a_1\for_100_a_1\obj\Debug\net10.0\for_100_a_1.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for_100_a_1\for_100_a_1\obj\Debug\net10.0\refint\for_100_a_1.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for_100_a_1\for_100_a_1\obj\Debug\net10.0\for_100_a_1.pdb
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for_100_a_1\for_100_a_1\obj\Debug\net10.0\for_100_a_1.genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\VS\for_100_a_1\for_100_a_1\obj\Debug\net10.0\ref\for_100_a_1.dll
