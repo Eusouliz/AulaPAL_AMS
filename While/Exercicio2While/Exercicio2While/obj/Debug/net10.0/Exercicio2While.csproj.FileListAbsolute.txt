@@ -1,0 +1,15 @@
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\Exercicio2While\Exercicio2While\bin\Debug\net10.0\Exercicio2While.exe
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\Exercicio2While\Exercicio2While\bin\Debug\net10.0\Exercicio2While.deps.json
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\Exercicio2While\Exercicio2While\bin\Debug\net10.0\Exercicio2While.runtimeconfig.json
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\Exercicio2While\Exercicio2While\bin\Debug\net10.0\Exercicio2While.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\Exercicio2While\Exercicio2While\bin\Debug\net10.0\Exercicio2While.pdb
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\Exercicio2While\Exercicio2While\obj\Debug\net10.0\Exercicio2While.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\Exercicio2While\Exercicio2While\obj\Debug\net10.0\Exercicio2While.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\Exercicio2While\Exercicio2While\obj\Debug\net10.0\Exercicio2While.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\Exercicio2While\Exercicio2While\obj\Debug\net10.0\Exercicio2While.csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\Exercicio2While\Exercicio2While\obj\Debug\net10.0\Exercicio2While.sourcelink.json
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\Exercicio2While\Exercicio2While\obj\Debug\net10.0\Exercicio2While.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\Exercicio2While\Exercicio2While\obj\Debug\net10.0\refint\Exercicio2While.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\Exercicio2While\Exercicio2While\obj\Debug\net10.0\Exercicio2While.pdb
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\Exercicio2While\Exercicio2While\obj\Debug\net10.0\Exercicio2While.genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\Exercicio2While\Exercicio2While\obj\Debug\net10.0\ref\Exercicio2While.dll

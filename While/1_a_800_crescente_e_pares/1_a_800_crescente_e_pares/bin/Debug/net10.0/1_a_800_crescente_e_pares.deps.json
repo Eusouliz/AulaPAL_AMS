@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "1_a_800_crescente_e_pares/1.0.0": {
+        "runtime": {
+          "1_a_800_crescente_e_pares.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "1_a_800_crescente_e_pares/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

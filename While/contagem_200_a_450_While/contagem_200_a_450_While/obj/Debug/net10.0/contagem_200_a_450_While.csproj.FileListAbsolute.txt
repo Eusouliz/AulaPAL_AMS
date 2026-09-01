@@ -1,0 +1,15 @@
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\contagem_200_a_450_While\contagem_200_a_450_While\bin\Debug\net10.0\contagem_200_a_450_While.exe
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\contagem_200_a_450_While\contagem_200_a_450_While\bin\Debug\net10.0\contagem_200_a_450_While.deps.json
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\contagem_200_a_450_While\contagem_200_a_450_While\bin\Debug\net10.0\contagem_200_a_450_While.runtimeconfig.json
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\contagem_200_a_450_While\contagem_200_a_450_While\bin\Debug\net10.0\contagem_200_a_450_While.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\contagem_200_a_450_While\contagem_200_a_450_While\bin\Debug\net10.0\contagem_200_a_450_While.pdb
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\contagem_200_a_450_While\contagem_200_a_450_While\obj\Debug\net10.0\contagem_200_a_450_While.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\contagem_200_a_450_While\contagem_200_a_450_While\obj\Debug\net10.0\contagem_200_a_450_While.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\contagem_200_a_450_While\contagem_200_a_450_While\obj\Debug\net10.0\contagem_200_a_450_While.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\contagem_200_a_450_While\contagem_200_a_450_While\obj\Debug\net10.0\contagem_200_a_450_While.csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\contagem_200_a_450_While\contagem_200_a_450_While\obj\Debug\net10.0\contagem_200_a_450_While.sourcelink.json
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\contagem_200_a_450_While\contagem_200_a_450_While\obj\Debug\net10.0\contagem_200_a_450_While.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\contagem_200_a_450_While\contagem_200_a_450_While\obj\Debug\net10.0\refint\contagem_200_a_450_While.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\contagem_200_a_450_While\contagem_200_a_450_While\obj\Debug\net10.0\contagem_200_a_450_While.pdb
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\contagem_200_a_450_While\contagem_200_a_450_While\obj\Debug\net10.0\contagem_200_a_450_While.genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\contagem_200_a_450_While\contagem_200_a_450_While\obj\Debug\net10.0\ref\contagem_200_a_450_While.dll
