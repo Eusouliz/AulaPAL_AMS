@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ler_nome_nota_calcular_While")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dc1061151ef09251af5736493a168560274dd0fc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4a8afa297f5a9616f681b678c64936d7648d254a")]
 [assembly: System.Reflection.AssemblyProductAttribute("ler_nome_nota_calcular_While")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ler_nome_nota_calcular_While")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

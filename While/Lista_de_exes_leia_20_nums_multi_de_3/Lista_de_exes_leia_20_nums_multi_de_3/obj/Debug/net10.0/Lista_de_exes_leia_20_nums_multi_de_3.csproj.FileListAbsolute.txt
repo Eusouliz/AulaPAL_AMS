@@ -1,0 +1,15 @@
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\Lista_de_exes_leia_20_nums_multi_de_3\Lista_de_exes_leia_20_nums_multi_de_3\bin\Debug\net10.0\Lista_de_exes_leia_20_nums_multi_de_3.exe
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\Lista_de_exes_leia_20_nums_multi_de_3\Lista_de_exes_leia_20_nums_multi_de_3\bin\Debug\net10.0\Lista_de_exes_leia_20_nums_multi_de_3.deps.json
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\Lista_de_exes_leia_20_nums_multi_de_3\Lista_de_exes_leia_20_nums_multi_de_3\bin\Debug\net10.0\Lista_de_exes_leia_20_nums_multi_de_3.runtimeconfig.json
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\Lista_de_exes_leia_20_nums_multi_de_3\Lista_de_exes_leia_20_nums_multi_de_3\bin\Debug\net10.0\Lista_de_exes_leia_20_nums_multi_de_3.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\Lista_de_exes_leia_20_nums_multi_de_3\Lista_de_exes_leia_20_nums_multi_de_3\bin\Debug\net10.0\Lista_de_exes_leia_20_nums_multi_de_3.pdb
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\Lista_de_exes_leia_20_nums_multi_de_3\Lista_de_exes_leia_20_nums_multi_de_3\obj\Debug\net10.0\Lista_de_exes_leia_20_nums_multi_de_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\Lista_de_exes_leia_20_nums_multi_de_3\Lista_de_exes_leia_20_nums_multi_de_3\obj\Debug\net10.0\Lista_de_exes_leia_20_nums_multi_de_3.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\Lista_de_exes_leia_20_nums_multi_de_3\Lista_de_exes_leia_20_nums_multi_de_3\obj\Debug\net10.0\Lista_de_exes_leia_20_nums_multi_de_3.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\Lista_de_exes_leia_20_nums_multi_de_3\Lista_de_exes_leia_20_nums_multi_de_3\obj\Debug\net10.0\Lista_de_exes_leia_20_nums_multi_de_3.csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\Lista_de_exes_leia_20_nums_multi_de_3\Lista_de_exes_leia_20_nums_multi_de_3\obj\Debug\net10.0\Lista_de_exes_leia_20_nums_multi_de_3.sourcelink.json
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\Lista_de_exes_leia_20_nums_multi_de_3\Lista_de_exes_leia_20_nums_multi_de_3\obj\Debug\net10.0\Lista_de_exes_leia_20_nums_multi_de_3.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\Lista_de_exes_leia_20_nums_multi_de_3\Lista_de_exes_leia_20_nums_multi_de_3\obj\Debug\net10.0\refint\Lista_de_exes_leia_20_nums_multi_de_3.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\Lista_de_exes_leia_20_nums_multi_de_3\Lista_de_exes_leia_20_nums_multi_de_3\obj\Debug\net10.0\Lista_de_exes_leia_20_nums_multi_de_3.pdb
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\Lista_de_exes_leia_20_nums_multi_de_3\Lista_de_exes_leia_20_nums_multi_de_3\obj\Debug\net10.0\Lista_de_exes_leia_20_nums_multi_de_3.genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\Lista_de_exes_leia_20_nums_multi_de_3\Lista_de_exes_leia_20_nums_multi_de_3\obj\Debug\net10.0\ref\Lista_de_exes_leia_20_nums_multi_de_3.dll

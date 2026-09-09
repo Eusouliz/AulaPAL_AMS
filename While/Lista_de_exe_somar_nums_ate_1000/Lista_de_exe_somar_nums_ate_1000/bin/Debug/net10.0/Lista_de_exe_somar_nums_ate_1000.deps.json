@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Lista_de_exe_somar_nums_ate_1000/1.0.0": {
+        "runtime": {
+          "Lista_de_exe_somar_nums_ate_1000.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lista_de_exe_somar_nums_ate_1000/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\fatec-ams-ds1\\Desktop\\PAL\\While\\Exercicio5While\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{61FBC12B-5428-4830-980F-A08B917F0272}|Exercicio5While\\Exercicio5While.csproj|c:\\users\\fatec-ams-ds1\\desktop\\pal\\while\\exercicio5while\\exercicio5while\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{61FBC12B-5428-4830-980F-A08B917F0272}|Exercicio5While\\Exercicio5While.csproj|solutionrelative:exercicio5while\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3DC352B9-36FE-345C-E747-BADECC6806C4}|Exercicio5While\\Exercicio5While.csproj|c:\\users\\fatec-ams-ds1\\desktop\\pal\\while\\exercicio5while\\exercicio5while\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DC352B9-36FE-345C-E747-BADECC6806C4}|Exercicio5While\\Exercicio5While.csproj|solutionrelative:exercicio5while\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,7 +24,7 @@
               "RelativeDocumentMoniker": "Exercicio5While\\Program.cs",
               "ToolTip": "C:\\Users\\fatec-ams-ds1\\Desktop\\PAL\\While\\Exercicio5While\\Exercicio5While\\Program.cs",
               "RelativeToolTip": "Exercicio5While\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-26T17:39:41.631Z",
               "EditorCaption": ""

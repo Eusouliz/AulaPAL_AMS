@@ -8,4 +8,5 @@ while(cont >= 1)
     {
         Console.WriteLine(cont + " é par!");
     }
+    cont++;
 }

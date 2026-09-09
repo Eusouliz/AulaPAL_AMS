@@ -1,0 +1,15 @@
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\Lista_de_exe_somar_nums_ate_1000\Lista_de_exe_somar_nums_ate_1000\bin\Debug\net10.0\Lista_de_exe_somar_nums_ate_1000.exe
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\Lista_de_exe_somar_nums_ate_1000\Lista_de_exe_somar_nums_ate_1000\bin\Debug\net10.0\Lista_de_exe_somar_nums_ate_1000.deps.json
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\Lista_de_exe_somar_nums_ate_1000\Lista_de_exe_somar_nums_ate_1000\bin\Debug\net10.0\Lista_de_exe_somar_nums_ate_1000.runtimeconfig.json
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\Lista_de_exe_somar_nums_ate_1000\Lista_de_exe_somar_nums_ate_1000\bin\Debug\net10.0\Lista_de_exe_somar_nums_ate_1000.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\Lista_de_exe_somar_nums_ate_1000\Lista_de_exe_somar_nums_ate_1000\bin\Debug\net10.0\Lista_de_exe_somar_nums_ate_1000.pdb
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\Lista_de_exe_somar_nums_ate_1000\Lista_de_exe_somar_nums_ate_1000\obj\Debug\net10.0\Lista_de_exe_somar_nums_ate_1000.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\Lista_de_exe_somar_nums_ate_1000\Lista_de_exe_somar_nums_ate_1000\obj\Debug\net10.0\Lista_de_exe_somar_nums_ate_1000.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\Lista_de_exe_somar_nums_ate_1000\Lista_de_exe_somar_nums_ate_1000\obj\Debug\net10.0\Lista_de_exe_somar_nums_ate_1000.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\Lista_de_exe_somar_nums_ate_1000\Lista_de_exe_somar_nums_ate_1000\obj\Debug\net10.0\Lista_de_exe_somar_nums_ate_1000.csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\Lista_de_exe_somar_nums_ate_1000\Lista_de_exe_somar_nums_ate_1000\obj\Debug\net10.0\Lista_de_exe_somar_nums_ate_1000.sourcelink.json
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\Lista_de_exe_somar_nums_ate_1000\Lista_de_exe_somar_nums_ate_1000\obj\Debug\net10.0\Lista_de_exe_somar_nums_ate_1000.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\Lista_de_exe_somar_nums_ate_1000\Lista_de_exe_somar_nums_ate_1000\obj\Debug\net10.0\refint\Lista_de_exe_somar_nums_ate_1000.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\Lista_de_exe_somar_nums_ate_1000\Lista_de_exe_somar_nums_ate_1000\obj\Debug\net10.0\Lista_de_exe_somar_nums_ate_1000.pdb
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\Lista_de_exe_somar_nums_ate_1000\Lista_de_exe_somar_nums_ate_1000\obj\Debug\net10.0\Lista_de_exe_somar_nums_ate_1000.genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\Lista_de_exe_somar_nums_ate_1000\Lista_de_exe_somar_nums_ate_1000\obj\Debug\net10.0\ref\Lista_de_exe_somar_nums_ate_1000.dll

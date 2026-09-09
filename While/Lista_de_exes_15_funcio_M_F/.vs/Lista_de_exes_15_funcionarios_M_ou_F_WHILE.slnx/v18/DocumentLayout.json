@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fatec-ams-ds1\\Desktop\\PAL\\While\\Lista_de_exes_15_funcionarios_M_ou_F_WHILE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4AA756E7-4D47-C443-C7AF-85AC26D193ED}|Lista_de_exes_15_funcionarios_M_ou_F_WHILE\\Lista_de_exes_15_funcionarios_M_ou_F_WHILE.csproj|c:\\users\\fatec-ams-ds1\\desktop\\pal\\while\\lista_de_exes_15_funcionarios_m_ou_f_while\\lista_de_exes_15_funcionarios_m_ou_f_while\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AA756E7-4D47-C443-C7AF-85AC26D193ED}|Lista_de_exes_15_funcionarios_M_ou_F_WHILE\\Lista_de_exes_15_funcionarios_M_ou_F_WHILE.csproj|solutionrelative:lista_de_exes_15_funcionarios_m_ou_f_while\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fatec-ams-ds1\\Desktop\\PAL\\While\\Lista_de_exes_15_funcionarios_M_ou_F_WHILE\\Lista_de_exes_15_funcionarios_M_ou_F_WHILE\\Program.cs",
+              "RelativeDocumentMoniker": "Lista_de_exes_15_funcionarios_M_ou_F_WHILE\\Program.cs",
+              "ToolTip": "C:\\Users\\fatec-ams-ds1\\Desktop\\PAL\\While\\Lista_de_exes_15_funcionarios_M_ou_F_WHILE\\Lista_de_exes_15_funcionarios_M_ou_F_WHILE\\Program.cs",
+              "RelativeToolTip": "Lista_de_exes_15_funcionarios_M_ou_F_WHILE\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T19:39:32.043Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
