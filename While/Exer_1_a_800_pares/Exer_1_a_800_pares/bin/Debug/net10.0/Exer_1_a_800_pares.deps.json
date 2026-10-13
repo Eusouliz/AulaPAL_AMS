@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Exer_1_a_800_pares/1.0.0": {
+        "runtime": {
+          "Exer_1_a_800_pares.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exer_1_a_800_pares/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\fatec-ams-ds1\Desktop\PAL\Treino_While&For\FOR_1_a_956_crescente\FOR_1_a_956_crescente\bin\Debug\net10.0\FOR_1_a_956_crescente.exe
+C:\Users\fatec-ams-ds1\Desktop\PAL\Treino_While&For\FOR_1_a_956_crescente\FOR_1_a_956_crescente\bin\Debug\net10.0\FOR_1_a_956_crescente.deps.json
+C:\Users\fatec-ams-ds1\Desktop\PAL\Treino_While&For\FOR_1_a_956_crescente\FOR_1_a_956_crescente\bin\Debug\net10.0\FOR_1_a_956_crescente.runtimeconfig.json
+C:\Users\fatec-ams-ds1\Desktop\PAL\Treino_While&For\FOR_1_a_956_crescente\FOR_1_a_956_crescente\bin\Debug\net10.0\FOR_1_a_956_crescente.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\Treino_While&For\FOR_1_a_956_crescente\FOR_1_a_956_crescente\bin\Debug\net10.0\FOR_1_a_956_crescente.pdb
+C:\Users\fatec-ams-ds1\Desktop\PAL\Treino_While&For\FOR_1_a_956_crescente\FOR_1_a_956_crescente\obj\Debug\net10.0\FOR_1_a_956_crescente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Desktop\PAL\Treino_While&For\FOR_1_a_956_crescente\FOR_1_a_956_crescente\obj\Debug\net10.0\FOR_1_a_956_crescente.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\Treino_While&For\FOR_1_a_956_crescente\FOR_1_a_956_crescente\obj\Debug\net10.0\FOR_1_a_956_crescente.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Desktop\PAL\Treino_While&For\FOR_1_a_956_crescente\FOR_1_a_956_crescente\obj\Debug\net10.0\FOR_1_a_956_crescente.csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\Treino_While&For\FOR_1_a_956_crescente\FOR_1_a_956_crescente\obj\Debug\net10.0\FOR_1_a_956_crescente.sourcelink.json
+C:\Users\fatec-ams-ds1\Desktop\PAL\Treino_While&For\FOR_1_a_956_crescente\FOR_1_a_956_crescente\obj\Debug\net10.0\FOR_1_a_956_crescente.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\Treino_While&For\FOR_1_a_956_crescente\FOR_1_a_956_crescente\obj\Debug\net10.0\refint\FOR_1_a_956_crescente.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\Treino_While&For\FOR_1_a_956_crescente\FOR_1_a_956_crescente\obj\Debug\net10.0\FOR_1_a_956_crescente.pdb
+C:\Users\fatec-ams-ds1\Desktop\PAL\Treino_While&For\FOR_1_a_956_crescente\FOR_1_a_956_crescente\obj\Debug\net10.0\FOR_1_a_956_crescente.genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\Treino_While&For\FOR_1_a_956_crescente\FOR_1_a_956_crescente\obj\Debug\net10.0\ref\FOR_1_a_956_crescente.dll

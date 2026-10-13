@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "exer_ler_n_mostrar_crescente/1.0.0": {
+        "runtime": {
+          "exer_ler_n_mostrar_crescente.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "exer_ler_n_mostrar_crescente/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

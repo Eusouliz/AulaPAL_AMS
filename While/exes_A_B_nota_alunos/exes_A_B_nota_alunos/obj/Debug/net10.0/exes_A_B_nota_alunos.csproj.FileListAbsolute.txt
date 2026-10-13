@@ -1,0 +1,15 @@
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\exes_A_B_nota_alunos\exes_A_B_nota_alunos\bin\Debug\net10.0\exes_A_B_nota_alunos.exe
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\exes_A_B_nota_alunos\exes_A_B_nota_alunos\bin\Debug\net10.0\exes_A_B_nota_alunos.deps.json
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\exes_A_B_nota_alunos\exes_A_B_nota_alunos\bin\Debug\net10.0\exes_A_B_nota_alunos.runtimeconfig.json
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\exes_A_B_nota_alunos\exes_A_B_nota_alunos\bin\Debug\net10.0\exes_A_B_nota_alunos.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\exes_A_B_nota_alunos\exes_A_B_nota_alunos\bin\Debug\net10.0\exes_A_B_nota_alunos.pdb
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\exes_A_B_nota_alunos\exes_A_B_nota_alunos\obj\Debug\net10.0\exes_A_B_nota_alunos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\exes_A_B_nota_alunos\exes_A_B_nota_alunos\obj\Debug\net10.0\exes_A_B_nota_alunos.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\exes_A_B_nota_alunos\exes_A_B_nota_alunos\obj\Debug\net10.0\exes_A_B_nota_alunos.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\exes_A_B_nota_alunos\exes_A_B_nota_alunos\obj\Debug\net10.0\exes_A_B_nota_alunos.csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\exes_A_B_nota_alunos\exes_A_B_nota_alunos\obj\Debug\net10.0\exes_A_B_nota_alunos.sourcelink.json
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\exes_A_B_nota_alunos\exes_A_B_nota_alunos\obj\Debug\net10.0\exes_A_B_nota_alunos.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\exes_A_B_nota_alunos\exes_A_B_nota_alunos\obj\Debug\net10.0\refint\exes_A_B_nota_alunos.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\exes_A_B_nota_alunos\exes_A_B_nota_alunos\obj\Debug\net10.0\exes_A_B_nota_alunos.pdb
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\exes_A_B_nota_alunos\exes_A_B_nota_alunos\obj\Debug\net10.0\exes_A_B_nota_alunos.genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\exes_A_B_nota_alunos\exes_A_B_nota_alunos\obj\Debug\net10.0\ref\exes_A_B_nota_alunos.dll

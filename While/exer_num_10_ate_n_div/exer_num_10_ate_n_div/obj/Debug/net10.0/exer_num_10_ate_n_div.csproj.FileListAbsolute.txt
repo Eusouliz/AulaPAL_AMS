@@ -1,0 +1,15 @@
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\exer_num_10_ate_n_div\exer_num_10_ate_n_div\bin\Debug\net10.0\exer_num_10_ate_n_div.exe
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\exer_num_10_ate_n_div\exer_num_10_ate_n_div\bin\Debug\net10.0\exer_num_10_ate_n_div.deps.json
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\exer_num_10_ate_n_div\exer_num_10_ate_n_div\bin\Debug\net10.0\exer_num_10_ate_n_div.runtimeconfig.json
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\exer_num_10_ate_n_div\exer_num_10_ate_n_div\bin\Debug\net10.0\exer_num_10_ate_n_div.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\exer_num_10_ate_n_div\exer_num_10_ate_n_div\bin\Debug\net10.0\exer_num_10_ate_n_div.pdb
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\exer_num_10_ate_n_div\exer_num_10_ate_n_div\obj\Debug\net10.0\exer_num_10_ate_n_div.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\exer_num_10_ate_n_div\exer_num_10_ate_n_div\obj\Debug\net10.0\exer_num_10_ate_n_div.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\exer_num_10_ate_n_div\exer_num_10_ate_n_div\obj\Debug\net10.0\exer_num_10_ate_n_div.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\exer_num_10_ate_n_div\exer_num_10_ate_n_div\obj\Debug\net10.0\exer_num_10_ate_n_div.csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\exer_num_10_ate_n_div\exer_num_10_ate_n_div\obj\Debug\net10.0\exer_num_10_ate_n_div.sourcelink.json
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\exer_num_10_ate_n_div\exer_num_10_ate_n_div\obj\Debug\net10.0\exer_num_10_ate_n_div.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\exer_num_10_ate_n_div\exer_num_10_ate_n_div\obj\Debug\net10.0\refint\exer_num_10_ate_n_div.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\exer_num_10_ate_n_div\exer_num_10_ate_n_div\obj\Debug\net10.0\exer_num_10_ate_n_div.pdb
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\exer_num_10_ate_n_div\exer_num_10_ate_n_div\obj\Debug\net10.0\exer_num_10_ate_n_div.genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\exer_num_10_ate_n_div\exer_num_10_ate_n_div\obj\Debug\net10.0\ref\exer_num_10_ate_n_div.dll

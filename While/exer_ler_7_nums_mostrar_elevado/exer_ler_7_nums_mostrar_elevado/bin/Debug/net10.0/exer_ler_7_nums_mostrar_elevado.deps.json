@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "exer_ler_7_nums_mostrar_elevado/1.0.0": {
+        "runtime": {
+          "exer_ler_7_nums_mostrar_elevado.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "exer_ler_7_nums_mostrar_elevado/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

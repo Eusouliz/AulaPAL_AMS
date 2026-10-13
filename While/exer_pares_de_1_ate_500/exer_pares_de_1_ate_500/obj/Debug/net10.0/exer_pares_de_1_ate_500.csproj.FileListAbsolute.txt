@@ -1,0 +1,15 @@
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\exer_pares_de_1_ate_500\exer_pares_de_1_ate_500\bin\Debug\net10.0\exer_pares_de_1_ate_500.exe
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\exer_pares_de_1_ate_500\exer_pares_de_1_ate_500\bin\Debug\net10.0\exer_pares_de_1_ate_500.deps.json
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\exer_pares_de_1_ate_500\exer_pares_de_1_ate_500\bin\Debug\net10.0\exer_pares_de_1_ate_500.runtimeconfig.json
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\exer_pares_de_1_ate_500\exer_pares_de_1_ate_500\bin\Debug\net10.0\exer_pares_de_1_ate_500.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\exer_pares_de_1_ate_500\exer_pares_de_1_ate_500\bin\Debug\net10.0\exer_pares_de_1_ate_500.pdb
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\exer_pares_de_1_ate_500\exer_pares_de_1_ate_500\obj\Debug\net10.0\exer_pares_de_1_ate_500.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\exer_pares_de_1_ate_500\exer_pares_de_1_ate_500\obj\Debug\net10.0\exer_pares_de_1_ate_500.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\exer_pares_de_1_ate_500\exer_pares_de_1_ate_500\obj\Debug\net10.0\exer_pares_de_1_ate_500.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\exer_pares_de_1_ate_500\exer_pares_de_1_ate_500\obj\Debug\net10.0\exer_pares_de_1_ate_500.csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\exer_pares_de_1_ate_500\exer_pares_de_1_ate_500\obj\Debug\net10.0\exer_pares_de_1_ate_500.sourcelink.json
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\exer_pares_de_1_ate_500\exer_pares_de_1_ate_500\obj\Debug\net10.0\exer_pares_de_1_ate_500.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\exer_pares_de_1_ate_500\exer_pares_de_1_ate_500\obj\Debug\net10.0\refint\exer_pares_de_1_ate_500.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\exer_pares_de_1_ate_500\exer_pares_de_1_ate_500\obj\Debug\net10.0\exer_pares_de_1_ate_500.pdb
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\exer_pares_de_1_ate_500\exer_pares_de_1_ate_500\obj\Debug\net10.0\exer_pares_de_1_ate_500.genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\exer_pares_de_1_ate_500\exer_pares_de_1_ate_500\obj\Debug\net10.0\ref\exer_pares_de_1_ate_500.dll

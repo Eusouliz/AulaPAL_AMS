@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "exer_8900_ate_1/1.0.0": {
+        "runtime": {
+          "exer_8900_ate_1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "exer_8900_ate_1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\exer_ler_7_nums_mostrar_elevado\exer_ler_7_nums_mostrar_elevado\bin\Debug\net10.0\exer_ler_7_nums_mostrar_elevado.exe
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\exer_ler_7_nums_mostrar_elevado\exer_ler_7_nums_mostrar_elevado\bin\Debug\net10.0\exer_ler_7_nums_mostrar_elevado.deps.json
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\exer_ler_7_nums_mostrar_elevado\exer_ler_7_nums_mostrar_elevado\bin\Debug\net10.0\exer_ler_7_nums_mostrar_elevado.runtimeconfig.json
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\exer_ler_7_nums_mostrar_elevado\exer_ler_7_nums_mostrar_elevado\bin\Debug\net10.0\exer_ler_7_nums_mostrar_elevado.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\exer_ler_7_nums_mostrar_elevado\exer_ler_7_nums_mostrar_elevado\bin\Debug\net10.0\exer_ler_7_nums_mostrar_elevado.pdb
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\exer_ler_7_nums_mostrar_elevado\exer_ler_7_nums_mostrar_elevado\obj\Debug\net10.0\exer_ler_7_nums_mostrar_elevado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\exer_ler_7_nums_mostrar_elevado\exer_ler_7_nums_mostrar_elevado\obj\Debug\net10.0\exer_ler_7_nums_mostrar_elevado.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\exer_ler_7_nums_mostrar_elevado\exer_ler_7_nums_mostrar_elevado\obj\Debug\net10.0\exer_ler_7_nums_mostrar_elevado.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\exer_ler_7_nums_mostrar_elevado\exer_ler_7_nums_mostrar_elevado\obj\Debug\net10.0\exer_ler_7_nums_mostrar_elevado.csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\exer_ler_7_nums_mostrar_elevado\exer_ler_7_nums_mostrar_elevado\obj\Debug\net10.0\exer_ler_7_nums_mostrar_elevado.sourcelink.json
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\exer_ler_7_nums_mostrar_elevado\exer_ler_7_nums_mostrar_elevado\obj\Debug\net10.0\exer_ler_7_nums_mostrar_elevado.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\exer_ler_7_nums_mostrar_elevado\exer_ler_7_nums_mostrar_elevado\obj\Debug\net10.0\refint\exer_ler_7_nums_mostrar_elevado.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\exer_ler_7_nums_mostrar_elevado\exer_ler_7_nums_mostrar_elevado\obj\Debug\net10.0\exer_ler_7_nums_mostrar_elevado.pdb
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\exer_ler_7_nums_mostrar_elevado\exer_ler_7_nums_mostrar_elevado\obj\Debug\net10.0\exer_ler_7_nums_mostrar_elevado.genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\exer_ler_7_nums_mostrar_elevado\exer_ler_7_nums_mostrar_elevado\obj\Debug\net10.0\ref\exer_ler_7_nums_mostrar_elevado.dll

@@ -1,0 +1,15 @@
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\exer_8900_ate_1\exer_8900_ate_1\bin\Debug\net10.0\exer_8900_ate_1.exe
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\exer_8900_ate_1\exer_8900_ate_1\bin\Debug\net10.0\exer_8900_ate_1.deps.json
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\exer_8900_ate_1\exer_8900_ate_1\bin\Debug\net10.0\exer_8900_ate_1.runtimeconfig.json
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\exer_8900_ate_1\exer_8900_ate_1\bin\Debug\net10.0\exer_8900_ate_1.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\exer_8900_ate_1\exer_8900_ate_1\bin\Debug\net10.0\exer_8900_ate_1.pdb
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\exer_8900_ate_1\exer_8900_ate_1\obj\Debug\net10.0\exer_8900_ate_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\exer_8900_ate_1\exer_8900_ate_1\obj\Debug\net10.0\exer_8900_ate_1.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\exer_8900_ate_1\exer_8900_ate_1\obj\Debug\net10.0\exer_8900_ate_1.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\exer_8900_ate_1\exer_8900_ate_1\obj\Debug\net10.0\exer_8900_ate_1.csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\exer_8900_ate_1\exer_8900_ate_1\obj\Debug\net10.0\exer_8900_ate_1.sourcelink.json
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\exer_8900_ate_1\exer_8900_ate_1\obj\Debug\net10.0\exer_8900_ate_1.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\exer_8900_ate_1\exer_8900_ate_1\obj\Debug\net10.0\refint\exer_8900_ate_1.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\exer_8900_ate_1\exer_8900_ate_1\obj\Debug\net10.0\exer_8900_ate_1.pdb
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\exer_8900_ate_1\exer_8900_ate_1\obj\Debug\net10.0\exer_8900_ate_1.genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\exer_8900_ate_1\exer_8900_ate_1\obj\Debug\net10.0\ref\exer_8900_ate_1.dll

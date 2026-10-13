@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fatec-ams-ds1\\Desktop\\PAL\\While\\Lista_de_Exes_dobro_do_num_digitado_WHILE\\Lista_de_Exes_dobro_do_num_digitado_WHILE\\Lista_de_Exes_dobro_do_num_digitado_WHILE.csproj": {}
+    "C:\\Users\\fatec-ams-ds1\\Desktop\\PAL\\While\\Lista_de_Exes_dobro_num_digitado\\Lista_de_Exes_dobro_do_num_digitado_WHILE\\Lista_de_Exes_dobro_do_num_digitado_WHILE.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fatec-ams-ds1\\Desktop\\PAL\\While\\Lista_de_Exes_dobro_do_num_digitado_WHILE\\Lista_de_Exes_dobro_do_num_digitado_WHILE\\Lista_de_Exes_dobro_do_num_digitado_WHILE.csproj": {
+    "C:\\Users\\fatec-ams-ds1\\Desktop\\PAL\\While\\Lista_de_Exes_dobro_num_digitado\\Lista_de_Exes_dobro_do_num_digitado_WHILE\\Lista_de_Exes_dobro_do_num_digitado_WHILE.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fatec-ams-ds1\\Desktop\\PAL\\While\\Lista_de_Exes_dobro_do_num_digitado_WHILE\\Lista_de_Exes_dobro_do_num_digitado_WHILE\\Lista_de_Exes_dobro_do_num_digitado_WHILE.csproj",
+        "projectUniqueName": "C:\\Users\\fatec-ams-ds1\\Desktop\\PAL\\While\\Lista_de_Exes_dobro_num_digitado\\Lista_de_Exes_dobro_do_num_digitado_WHILE\\Lista_de_Exes_dobro_do_num_digitado_WHILE.csproj",
         "projectName": "Lista_de_Exes_dobro_do_num_digitado_WHILE",
-        "projectPath": "C:\\Users\\fatec-ams-ds1\\Desktop\\PAL\\While\\Lista_de_Exes_dobro_do_num_digitado_WHILE\\Lista_de_Exes_dobro_do_num_digitado_WHILE\\Lista_de_Exes_dobro_do_num_digitado_WHILE.csproj",
+        "projectPath": "C:\\Users\\fatec-ams-ds1\\Desktop\\PAL\\While\\Lista_de_Exes_dobro_num_digitado\\Lista_de_Exes_dobro_do_num_digitado_WHILE\\Lista_de_Exes_dobro_do_num_digitado_WHILE.csproj",
         "packagesPath": "C:\\Users\\fatec-ams-ds1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fatec-ams-ds1\\Desktop\\PAL\\While\\Lista_de_Exes_dobro_do_num_digitado_WHILE\\Lista_de_Exes_dobro_do_num_digitado_WHILE\\obj\\",
+        "outputPath": "C:\\Users\\fatec-ams-ds1\\Desktop\\PAL\\While\\Lista_de_Exes_dobro_num_digitado\\Lista_de_Exes_dobro_do_num_digitado_WHILE\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\fatec-ams-ds1\\AppData\\Roaming\\NuGet\\NuGet.Config",

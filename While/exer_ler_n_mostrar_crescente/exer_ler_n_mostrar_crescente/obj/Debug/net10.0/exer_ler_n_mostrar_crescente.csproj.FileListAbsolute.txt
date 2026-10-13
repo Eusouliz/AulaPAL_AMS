@@ -1,0 +1,15 @@
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\exer_ler_n_mostrar_crescente\exer_ler_n_mostrar_crescente\bin\Debug\net10.0\exer_ler_n_mostrar_crescente.exe
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\exer_ler_n_mostrar_crescente\exer_ler_n_mostrar_crescente\bin\Debug\net10.0\exer_ler_n_mostrar_crescente.deps.json
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\exer_ler_n_mostrar_crescente\exer_ler_n_mostrar_crescente\bin\Debug\net10.0\exer_ler_n_mostrar_crescente.runtimeconfig.json
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\exer_ler_n_mostrar_crescente\exer_ler_n_mostrar_crescente\bin\Debug\net10.0\exer_ler_n_mostrar_crescente.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\exer_ler_n_mostrar_crescente\exer_ler_n_mostrar_crescente\bin\Debug\net10.0\exer_ler_n_mostrar_crescente.pdb
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\exer_ler_n_mostrar_crescente\exer_ler_n_mostrar_crescente\obj\Debug\net10.0\exer_ler_n_mostrar_crescente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\exer_ler_n_mostrar_crescente\exer_ler_n_mostrar_crescente\obj\Debug\net10.0\exer_ler_n_mostrar_crescente.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\exer_ler_n_mostrar_crescente\exer_ler_n_mostrar_crescente\obj\Debug\net10.0\exer_ler_n_mostrar_crescente.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\exer_ler_n_mostrar_crescente\exer_ler_n_mostrar_crescente\obj\Debug\net10.0\exer_ler_n_mostrar_crescente.csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\exer_ler_n_mostrar_crescente\exer_ler_n_mostrar_crescente\obj\Debug\net10.0\exer_ler_n_mostrar_crescente.sourcelink.json
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\exer_ler_n_mostrar_crescente\exer_ler_n_mostrar_crescente\obj\Debug\net10.0\exer_ler_n_mostrar_crescente.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\exer_ler_n_mostrar_crescente\exer_ler_n_mostrar_crescente\obj\Debug\net10.0\refint\exer_ler_n_mostrar_crescente.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\exer_ler_n_mostrar_crescente\exer_ler_n_mostrar_crescente\obj\Debug\net10.0\exer_ler_n_mostrar_crescente.pdb
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\exer_ler_n_mostrar_crescente\exer_ler_n_mostrar_crescente\obj\Debug\net10.0\exer_ler_n_mostrar_crescente.genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\exer_ler_n_mostrar_crescente\exer_ler_n_mostrar_crescente\obj\Debug\net10.0\ref\exer_ler_n_mostrar_crescente.dll

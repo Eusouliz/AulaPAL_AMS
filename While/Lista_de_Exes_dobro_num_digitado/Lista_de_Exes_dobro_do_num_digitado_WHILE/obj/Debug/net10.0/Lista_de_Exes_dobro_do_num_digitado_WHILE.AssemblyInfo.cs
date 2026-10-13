@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lista_de_Exes_dobro_do_num_digitado_WHILE")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4a8afa297f5a9616f681b678c64936d7648d254a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+15ff3ff183d86a39cad448b2faef879bcd50e680")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lista_de_Exes_dobro_do_num_digitado_WHILE")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lista_de_Exes_dobro_do_num_digitado_WHILE")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

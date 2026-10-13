@@ -1,0 +1,15 @@
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\Exer_A_B_media_alunos\Exer_A_B_media_alunos\bin\Debug\net10.0\Exer_A_B_media_alunos.exe
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\Exer_A_B_media_alunos\Exer_A_B_media_alunos\bin\Debug\net10.0\Exer_A_B_media_alunos.deps.json
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\Exer_A_B_media_alunos\Exer_A_B_media_alunos\bin\Debug\net10.0\Exer_A_B_media_alunos.runtimeconfig.json
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\Exer_A_B_media_alunos\Exer_A_B_media_alunos\bin\Debug\net10.0\Exer_A_B_media_alunos.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\Exer_A_B_media_alunos\Exer_A_B_media_alunos\bin\Debug\net10.0\Exer_A_B_media_alunos.pdb
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\Exer_A_B_media_alunos\Exer_A_B_media_alunos\obj\Debug\net10.0\Exer_A_B_media_alunos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\Exer_A_B_media_alunos\Exer_A_B_media_alunos\obj\Debug\net10.0\Exer_A_B_media_alunos.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\Exer_A_B_media_alunos\Exer_A_B_media_alunos\obj\Debug\net10.0\Exer_A_B_media_alunos.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\Exer_A_B_media_alunos\Exer_A_B_media_alunos\obj\Debug\net10.0\Exer_A_B_media_alunos.csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\Exer_A_B_media_alunos\Exer_A_B_media_alunos\obj\Debug\net10.0\Exer_A_B_media_alunos.sourcelink.json
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\Exer_A_B_media_alunos\Exer_A_B_media_alunos\obj\Debug\net10.0\Exer_A_B_media_alunos.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\Exer_A_B_media_alunos\Exer_A_B_media_alunos\obj\Debug\net10.0\refint\Exer_A_B_media_alunos.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\Exer_A_B_media_alunos\Exer_A_B_media_alunos\obj\Debug\net10.0\Exer_A_B_media_alunos.pdb
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\Exer_A_B_media_alunos\Exer_A_B_media_alunos\obj\Debug\net10.0\Exer_A_B_media_alunos.genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\While\Exer_A_B_media_alunos\Exer_A_B_media_alunos\obj\Debug\net10.0\ref\Exer_A_B_media_alunos.dll

@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\fatec-ams-ds1\\Desktop\\PAL\\While\\Lista_de_Exes_dobro_do_num_digitado_WHILE\\",
+  "WorkspaceRootPath": "C:\\Users\\fatec-ams-ds1\\Desktop\\PAL\\While\\Lista_de_Exes_dobro_num_digitado\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3CE43C5C-8A5D-4F6E-8990-647F92FD086C}|Lista_de_Exes_dobro_do_num_digitado_WHILE\\Lista_de_Exes_dobro_do_num_digitado_WHILE.csproj|c:\\users\\fatec-ams-ds1\\desktop\\pal\\while\\lista_de_exes_dobro_do_num_digitado_while\\lista_de_exes_dobro_do_num_digitado_while\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3CE43C5C-8A5D-4F6E-8990-647F92FD086C}|Lista_de_Exes_dobro_do_num_digitado_WHILE\\Lista_de_Exes_dobro_do_num_digitado_WHILE.csproj|solutionrelative:lista_de_exes_dobro_do_num_digitado_while\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{01E0C672-C56F-2A0D-0FAC-E08D7B840812}|Lista_de_Exes_dobro_do_num_digitado_WHILE\\Lista_de_Exes_dobro_do_num_digitado_WHILE.csproj|c:\\users\\fatec-ams-ds1\\desktop\\pal\\while\\lista_de_exes_dobro_num_digitado\\lista_de_exes_dobro_do_num_digitado_while\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01E0C672-C56F-2A0D-0FAC-E08D7B840812}|Lista_de_Exes_dobro_do_num_digitado_WHILE\\Lista_de_Exes_dobro_do_num_digitado_WHILE.csproj|solutionrelative:lista_de_exes_dobro_do_num_digitado_while\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,9 +20,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\fatec-ams-ds1\\Desktop\\PAL\\While\\Lista_de_Exes_dobro_do_num_digitado_WHILE\\Lista_de_Exes_dobro_do_num_digitado_WHILE\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\fatec-ams-ds1\\Desktop\\PAL\\While\\Lista_de_Exes_dobro_num_digitado\\Lista_de_Exes_dobro_do_num_digitado_WHILE\\Program.cs",
               "RelativeDocumentMoniker": "Lista_de_Exes_dobro_do_num_digitado_WHILE\\Program.cs",
-              "ToolTip": "C:\\Users\\fatec-ams-ds1\\Desktop\\PAL\\While\\Lista_de_Exes_dobro_do_num_digitado_WHILE\\Lista_de_Exes_dobro_do_num_digitado_WHILE\\Program.cs",
+              "ToolTip": "C:\\Users\\fatec-ams-ds1\\Desktop\\PAL\\While\\Lista_de_Exes_dobro_num_digitado\\Lista_de_Exes_dobro_do_num_digitado_WHILE\\Program.cs",
               "RelativeToolTip": "Lista_de_Exes_dobro_do_num_digitado_WHILE\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
